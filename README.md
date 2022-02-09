@@ -1,5 +1,4 @@
-Meu nome é Gabriel Markus
-Sou Dev Web Full stack, mas focado em Front-End e design.
+Dev Web Full stack, focado em Front-End e design.
 Aqui é o lugar onde coloco meus projetos e trabalhos.
 
 
