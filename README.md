@@ -3,7 +3,7 @@
 - 💻 Hoje trabalho com front-End
 - 🌱 Estudando Engenharia de Software
 - 📧 Contate-me no email: gabrielmarkusmt@hotmail.com
-- 🧍‍♂️ Pronoums: Ele/Dele
+- 🧍‍♂️ Pronoums: Ele/Dele 
 
 <div align="center">
   <a href="https://github.com/gabrielmarkusmt">
