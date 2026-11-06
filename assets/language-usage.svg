@@ -1,10 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="240" viewBox="0 0 940 240" role="img" aria-label="LINGUAGENS EM NÚMEROS">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#201633"/></linearGradient></defs>
-<rect width="938" height="238" x="1" y="1" rx="20" fill="url(#bg)" stroke="#43345f" stroke-width="2"/>
-<rect x="29" y="30" width="7" height="47" rx="3" fill="#a78bfa"/>
-<text x="51" y="51" font-family="Arial,sans-serif" font-size="25" fill="#f1edff" font-weight="bold">LINGUAGENS EM NÚMEROS</text>
-<text x="51" y="79" font-family="Arial,sans-serif" font-size="14" fill="#ada6c6">Dados reais dos repositórios públicos</text>
-<rect x="42" y="110" width="856" height="94" rx="13" fill="#28203e" stroke="#514075"/>
-<text x="470" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#e6ddff">Aguardando a primeira atualização automática</text>
-<text x="470" y="178" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#aa9ebf">GitHub Actions → Atualizar gráficos de linguagens → Run workflow</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="390" viewBox="0 0 940 390" role="img" aria-label="LINGUAGENS EM NÚMEROS">
+<title>LINGUAGENS EM NÚMEROS</title>
+<defs><linearGradient id="back" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#201633"/></linearGradient></defs>
+<rect x="1" y="1" width="938" height="388" rx="18" fill="url(#back)" stroke="#43345f" stroke-width="2"/>
+<rect x="30" y="30" width="6" height="44" rx="3" fill="#a78bfa"/>
+<text x="51" y="50" fill="#f5f3ff" font-size="24" font-weight="bold" font-family="Arial,sans-serif">LINGUAGENS EM NÚMEROS</text>
+<text x="52" y="73" fill="#aea6c7" font-size="14" font-family="Arial,sans-serif">Distribuição por bytes de código em repositórios públicos</text>
+<path d="M 50 95 H 890" stroke="#3c3654"/>
+<circle cx="57" cy="125" r="5" fill="#8a58b5"/>
+<text x="72" y="130" font-size="16" font-weight="bold" fill="#e9e5f9" font-family="Arial,sans-serif">CSS</text>
+<text x="882" y="130" text-anchor="end" font-size="16" font-weight="bold" fill="#c4b5fd" font-family="Arial,sans-serif">43.3%</text>
+<rect x="50" y="140" width="832" height="16" rx="8" fill="#302c41"/>
+<rect x="50" y="140" width="360.04" height="16" rx="8" fill="#8a58b5"/>
+<circle cx="57" cy="181" r="5" fill="#e34f26"/>
+<text x="72" y="186" font-size="16" font-weight="bold" fill="#e9e5f9" font-family="Arial,sans-serif">HTML</text>
+<text x="882" y="186" text-anchor="end" font-size="16" font-weight="bold" fill="#c4b5fd" font-family="Arial,sans-serif">29.4%</text>
+<rect x="50" y="196" width="832" height="16" rx="8" fill="#302c41"/>
+<rect x="50" y="196" width="245.02" height="16" rx="8" fill="#e34f26"/>
+<circle cx="57" cy="237" r="5" fill="#f7df1e"/>
+<text x="72" y="242" font-size="16" font-weight="bold" fill="#e9e5f9" font-family="Arial,sans-serif">JavaScript</text>
+<text x="882" y="242" text-anchor="end" font-size="16" font-weight="bold" fill="#c4b5fd" font-family="Arial,sans-serif">21.2%</text>
+<rect x="50" y="252" width="832" height="16" rx="8" fill="#302c41"/>
+<rect x="50" y="252" width="176.48" height="16" rx="8" fill="#f7df1e"/>
+<circle cx="57" cy="293" r="5" fill="#3572a5"/>
+<text x="72" y="298" font-size="16" font-weight="bold" fill="#e9e5f9" font-family="Arial,sans-serif">Python</text>
+<text x="882" y="298" text-anchor="end" font-size="16" font-weight="bold" fill="#c4b5fd" font-family="Arial,sans-serif">6.1%</text>
+<rect x="50" y="308" width="832" height="16" rx="8" fill="#302c41"/>
+<rect x="50" y="308" width="50.47" height="16" rx="8" fill="#3572a5"/>
+<text x="50" y="366" fill="#9f98b4" font-size="12" font-family="Arial,sans-serif">Fonte: GitHub API • 4 repositórios com código • Atualizado: 06/11/2026</text>
 </svg>

@@ -1,10 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="240" viewBox="0 0 940 240" role="img" aria-label="TECNOLOGIAS POR REPOSITÓRIO">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#201633"/></linearGradient></defs>
-<rect width="938" height="238" x="1" y="1" rx="20" fill="url(#bg)" stroke="#43345f" stroke-width="2"/>
-<rect x="29" y="30" width="7" height="47" rx="3" fill="#a78bfa"/>
-<text x="51" y="51" font-family="Arial,sans-serif" font-size="25" fill="#f1edff" font-weight="bold">TECNOLOGIAS POR REPOSITÓRIO</text>
-<text x="51" y="79" font-family="Arial,sans-serif" font-size="14" fill="#ada6c6">Dados reais dos repositórios públicos</text>
-<rect x="42" y="110" width="856" height="94" rx="13" fill="#28203e" stroke="#514075"/>
-<text x="470" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#e6ddff">Aguardando a primeira atualização automática</text>
-<text x="470" y="178" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#aa9ebf">GitHub Actions → Atualizar gráficos de linguagens → Run workflow</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="451" viewBox="0 0 940 451" role="img" aria-label="TECNOLOGIAS POR REPOSITÓRIO">
+<title>TECNOLOGIAS POR REPOSITÓRIO</title>
+<defs><linearGradient id="back" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#201633"/></linearGradient></defs>
+<rect x="1" y="1" width="938" height="449" rx="18" fill="url(#back)" stroke="#43345f" stroke-width="2"/>
+<rect x="30" y="30" width="6" height="44" rx="3" fill="#a78bfa"/>
+<text x="51" y="50" fill="#f5f3ff" font-size="24" font-weight="bold" font-family="Arial,sans-serif">TECNOLOGIAS POR REPOSITÓRIO</text>
+<text x="52" y="73" fill="#aea6c7" font-size="14" font-family="Arial,sans-serif">Composição percentual dos projetos públicos com maior volume de código</text>
+<path d="M 50 95 H 890" stroke="#3c3654"/>
+<text x="50" y="128" fill="#f1edff" font-size="16" font-weight="bold" font-family="Arial,sans-serif">DevWeb-Sites</text>
+<text x="882" y="128" text-anchor="end" fill="#aea6c7" font-size="12" font-family="Arial,sans-serif">CSS 51.8% • HTML 32.6% • JavaScript 15.6%</text>
+<rect x="50" y="141" width="832" height="22" rx="5" fill="#302c41"/>
+<rect x="50.00" y="141" width="431.30" height="22" fill="#8a58b5"/>
+<rect x="481.30" y="141" width="271.23" height="22" fill="#e34f26"/>
+<rect x="752.54" y="141" width="129.46" height="22" fill="#f7df1e"/>
+<text x="50" y="197" fill="#f1edff" font-size="16" font-weight="bold" font-family="Arial,sans-serif">todolisttx</text>
+<text x="882" y="197" text-anchor="end" fill="#aea6c7" font-size="12" font-family="Arial,sans-serif">JavaScript 54.0% • HTML 32.8% • CSS 13.2%</text>
+<rect x="50" y="210" width="832" height="22" rx="5" fill="#302c41"/>
+<rect x="50.00" y="210" width="449.55" height="22" fill="#f7df1e"/>
+<rect x="499.55" y="210" width="273.01" height="22" fill="#e34f26"/>
+<rect x="772.56" y="210" width="109.44" height="22" fill="#8a58b5"/>
+<text x="50" y="266" fill="#f1edff" font-size="16" font-weight="bold" font-family="Arial,sans-serif">ChatBot-TX--GPT</text>
+<text x="882" y="266" text-anchor="end" fill="#aea6c7" font-size="12" font-family="Arial,sans-serif">CSS 48.7% • JavaScript 24.6% • Python 15.5%</text>
+<rect x="50" y="279" width="832" height="22" rx="5" fill="#302c41"/>
+<rect x="50.00" y="279" width="405.07" height="22" fill="#8a58b5"/>
+<rect x="455.07" y="279" width="204.95" height="22" fill="#f7df1e"/>
+<rect x="660.02" y="279" width="128.59" height="22" fill="#3572a5"/>
+<rect x="788.61" y="279" width="93.39" height="22" fill="#e34f26"/>
+<text x="50" y="335" fill="#f1edff" font-size="16" font-weight="bold" font-family="Arial,sans-serif">PokemonNewApi</text>
+<text x="882" y="335" text-anchor="end" fill="#aea6c7" font-size="12" font-family="Arial,sans-serif">Python 100.0%</text>
+<rect x="50" y="348" width="832" height="22" rx="5" fill="#302c41"/>
+<rect x="50.00" y="348" width="832.00" height="22" fill="#3572a5"/>
+<text x="50" y="426" fill="#9f98b4" font-size="12" font-family="Arial,sans-serif">As barras somam 100% do código detectado em cada projeto; não medem proficiência.</text>
 </svg>
