@@ -1,128 +1,164 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:38205e,100:865dff&text=Gabriel%20Markus&fontColor=ffffff&fontSize=49&fontAlignY=37&desc=Desenvolvedor%20Front-end%20%7C%20Engenharia%20de%20Software&descAlignY=58&descSize=18&animation=fadeIn" alt="Gabriel Markus | Desenvolvedor Front-end" />
+<img width="100%" src="./assets/profile-hero.svg" alt="Gabriel Markus — Desenvolvedor Full Stack: Web, Backend, Mobile e Games"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=950&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Transformando+ideias+em+experi%C3%AAncias+digitais;Front-end+%7C+Interfaces+modernas+%7C+UI%2FUX;Sempre+aprendendo%2C+criando+e+evoluindo" alt="Apresentação animada" /></a>
+**🇧🇷 Português** &nbsp; | &nbsp; **[🇺🇸 Read in English](./README.en.md)**
 
 <a href="https://www.linkedin.com/in/gabriel-markus-85bb70217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:gabrielmarkusmt@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"/></a>
-<a href="https://github.com/gabrielmarkusmt?tab=repositories"><img src="https://img.shields.io/badge/Meus%20projetos-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
+<a href="mailto:gabrielmarkusmt@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/gabrielmarkusmt"><img src="https://img.shields.io/badge/GitHub-6d40a8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
+
+## 👨‍💻 Desenvolvimento Full Stack para produtos e empresas
+
+Sou **Gabriel Markus**, desenvolvedor **Full Stack** com atuação em **frontend, backend e desenvolvimento de soluções sob demanda para empresas**, principalmente em projetos como **prestador de serviços (PJ)**.
+
+Trabalho em diferentes etapas do ciclo de um produto: arquitetura de aplicações, criação de interfaces, APIs, integrações, bancos de dados, automações e ferramentas administrativas. Minha experiência inclui **desenvolvimento web, aplicativos mobile, aplicações desktop e projetos de games e simulação**.
+
+Meu foco é transformar necessidades reais de negócio em software funcional, com boa experiência de uso e soluções técnicas sustentáveis.
+
+**Áreas de atuação:** Software empresarial · E-commerce · CRM · APIs e integrações · Automações · Aplicativos mobile · Interfaces e experiência do usuário.
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🧰 Stack técnica
 
-Olá! Sou **Gabriel Markus**, desenvolvedor com foco em **Front-end**, com interesse em criar interfaces intuitivas, responsivas e bem construídas. Estudo **Engenharia de Software** e busco aplicar tecnologia, design e visão de produto na criação de experiências digitais.
+| Área | Tecnologias identificadas nos projetos |
+| --- | --- |
+| **Linguagens** | TypeScript, JavaScript, Python, C#, SQL, HTML5, CSS3, GML |
+| **Frontend** | React.js, Next.js, Vite, Tailwind CSS, Framer Motion, Three.js, React Flow |
+| **Backend & APIs** | Node.js, NestJS, Express, Fastify, Flask, tRPC, APIs REST, Zod |
+| **Mobile & Desktop** | React Native, Expo, NativeWind, Electron, GameMaker |
+| **Dados & infraestrutura** | PostgreSQL, MySQL, SQLite, Prisma, Drizzle ORM, Redis, BullMQ, Docker |
+| **Ferramentas & qualidade** | Git, GitHub Actions, Vitest, Figma |
 
-- 💻 **Foco:** front-end, desenvolvimento web, UI/UX e aplicações responsivas
-- 🌱 **Estudos:** Engenharia de Software
-- 🚀 **Interesses:** e-commerce, automações, APIs e novas tecnologias
-- 📍 **Localização:** Rio de Janeiro, Brasil
-- 🧍 **Pronomes:** ele/dele
-- 📫 **E-mail:** [gabrielmarkusmt@hotmail.com](mailto:gabrielmarkusmt@hotmail.com)
+<sub>Stack verificada a partir dos arquivos e documentações dos repositórios, incluindo projetos privados. Tecnologias listadas não representam uma classificação de proficiência.</sub>
 
-> Design que facilita a vida das pessoas. Código que transforma ideias em produtos.
-
-### 🛠️ Tecnologias & ferramentas
-
-<div align="center">
-
-**Linguagens e interfaces**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,cs&theme=dark" alt="HTML, CSS, JavaScript, React, Bootstrap, Python e C Sharp" />
-
-**Design e desenvolvimento**
-
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" alt="Figma, Git, GitHub e Visual Studio Code" />
-
-</div>
-
-<sub>Ferramentas com as quais trabalho ou estudo; esta seção não é uma escala de proficiência.</sub>
-
-### 📊 Linguagens presentes nos meus repositórios públicos
+### Tecnologias em projetos reais
 
 <div align="center">
-
-<img width="100%" src="./assets/language-usage.svg" alt="Gráfico de barras do uso de linguagens nos repositórios públicos" />
-
+<img src="./assets/project-stack.svg" width="100%" alt="Gráfico de utilização de tecnologias identificadas em dez projetos selecionados"/>
 </div>
 
-<sub>Os percentuais são calculados com os **bytes por linguagem** informados pela API do GitHub, somados entre os repositórios públicos próprios com código. Forks, projetos vazios e este repositório de perfil são desconsiderados. Volume de código não representa tempo de experiência ou nível de conhecimento.</sub>
+<sub>As barras indicam **em quantos dos 10 projetos selecionados** uma tecnologia aparece, e não porcentagem de domínio. Um projeto pode utilizar várias tecnologias.</sub>
 
-<details>
-<summary><strong>🔎 Ver a distribuição de linguagens em cada projeto</strong></summary>
+---
 
-<br/>
+## 🚀 Projetos em destaque
 
-<div align="center">
-<img width="100%" src="./assets/repository-languages.svg" alt="Gráfico de barras empilhadas de linguagens por projeto" />
-</div>
-
-<sub>Comparação de até oito repositórios públicos com maior volume de código detectado. Os gráficos são atualizados automaticamente pelo GitHub Actions.</sub>
-
-</details>
-
-### 🚀 Projetos para conhecer
+Soluções desenvolvidas em contextos profissionais, comerciais e de produto. Selecionei projetos que demonstram **arquitetura Full Stack, desenvolvimento de interfaces, APIs, integração de sistemas e experiência multiplataforma**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🌐 DevWeb-Sites</h3>
-<p>Desenvolvimento de sites e exercícios de front-end, com foco em interfaces e design web.</p>
-<a href="https://github.com/gabrielmarkusmt/DevWeb-Sites"><b>Explorar projeto ↗</b></a>
+<h3>🛒 Atacadão Studio · E-commerce Full Stack</h3>
+<p>Plataforma de comércio digital com vitrine, catálogo, estoque, precificação, pedidos, área do cliente e painel administrativo. Integra a operação da loja às ferramentas de gestão.</p>
+<p><code>React.js</code> · <code>Vite</code> · <code>Node.js</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code> · <code>OpenAI API</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
 </td>
 <td width="50%" valign="top">
-<h3>🤖 ChatBot TX — GPT</h3>
-<p>Experimento com interface web e integração de chatbot, combinando tecnologias de front-end e API.</p>
-<a href="https://github.com/gabrielmarkusmt/ChatBot-TX--GPT"><b>Explorar projeto ↗</b></a>
+<h3>💼 CRM Comercial &amp; Atendimento</h3>
+<p>Sistema para gestão de relacionamento, pipeline, atendimento, campanhas, catálogo e encartes digitais, com aplicação web e módulo mobile.</p>
+<p><code>React.js</code> · <code>TypeScript</code> · <code>Express</code> · <code>tRPC</code> · <code>MySQL</code> · <code>React Native</code> · <code>Expo</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🐍 PokemonNewApi</h3>
-<p>Projeto de estudo em Python voltado ao universo Pokémon e APIs.</p>
-<a href="https://github.com/gabrielmarkusmt/PokemonNewApi"><b>Explorar projeto ↗</b></a>
+<h3>🔁 Plataforma de Pós-venda</h3>
+<p>Solução de pós-venda com automações, importação de dados, filas de processamento, campanhas e acompanhamento de atendimentos por indicadores.</p>
+<p><code>Next.js</code> · <code>NestJS</code> · <code>Fastify</code> · <code>Prisma</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>BullMQ</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
 </td>
 <td width="50%" valign="top">
-<h3>✅ Todo List TX</h3>
-<p>Pequeno projeto em JavaScript para estudo de interatividade e funcionalidades web.</p>
-<a href="https://github.com/gabrielmarkusmt/todolisttx"><b>Explorar projeto ↗</b></a>
+<h3>💬 Automação de Mensagens · WhatsApp</h3>
+<p>Ferramenta de relacionamento que importa contatos, identifica aniversariantes, personaliza artes e organiza envios via API oficial com fila e auditoria.</p>
+<p><code>React.js</code> · <code>TypeScript</code> · <code>Fastify</code> · <code>Prisma</code> · <code>SQLite</code> · <code>Sharp</code> · <code>WhatsApp Cloud API</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏢 Total Quality Group · Website Corporativo</h3>
+<p>Site institucional para empresa de consultoria e engenharia, com páginas de serviços, formulários de proposta, SEO e integração comercial.</p>
+<p><code>React.js</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Express</code> · <code>Tailwind CSS</code> · <code>Framer Motion</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
+</td>
+<td width="50%" valign="top">
+<h3>📱 VickMakeup · App de Gestão</h3>
+<p>Aplicativo mobile para gestão de agenda, clientes, serviços, galeria de resultados e relatórios, com navegação e armazenamento local.</p>
+<p><code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>NativeWind</code> · <code>AsyncStorage</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
 </td>
 </tr>
 </table>
 
+### 🔬 Engenharia, desktop e simulação
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🖥️ Aurora Next Gen Tools · Desktop</h3>
+<p>Suite desktop para auxiliar fluxos de simulação estratégica, incluindo importação de dados, ferramentas de geração, visualizações e análises locais.</p>
+<p><code>React.js</code> · <code>TypeScript</code> · <code>Electron</code> · <code>Express</code> · <code>SQLite</code> · <code>Drizzle ORM</code> · <code>Three.js</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
+</td>
+<td width="50%" valign="top">
+<h3>🌌 Aurora Lore Tools · Worldbuilding</h3>
+<p>Plataforma Full Stack para construção de universos ficcionais, linhas do tempo, espécies, organizações, wiki e visualização de relações.</p>
+<p><code>React.js</code> · <code>TypeScript</code> · <code>tRPC</code> · <code>MySQL</code> · <code>Drizzle ORM</code> · <code>React Flow</code> · <code>Three.js</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🪐 Orion Explorer · Simulador 3D</h3>
+<p>Explorador de galáxias e sistemas estelares com geração procedural, renderização 3D, inspeção de planetas e interface interativa.</p>
+<p><code>JavaScript</code> · <code>Python</code> · <code>Flask</code> · <code>Three.js</code> · <code>NumPy</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
+</td>
+<td width="50%" valign="top">
+<h3>🎮 SpaceDream · Protótipo de Game</h3>
+<p>Projeto de jogo 2D com estrutura de cenas, objetos, scripts, sprites e sistemas interativos, desenvolvido no ecossistema GameMaker.</p>
+<p><code>GameMaker</code> · <code>GML</code> · <code>Game Development</code></p>
+<sub>🔒 Código privado · case disponível sob solicitação</sub>
+</td>
+</tr>
+</table>
+
+> **Sobre os repositórios privados:** alguns projetos envolvem trabalhos para empresas ou código não publicado. Por isso, apresento suas características técnicas sem expor o código-fonte, informações de clientes ou detalhes internos. Demonstrações e estudos de caso podem ser discutidos conforme a autorização aplicável.
+
+---
+
+## 📊 Linguagens dos meus repositórios públicos
+
+<details>
+<summary><b>Visualizar métricas automáticas de código público</b></summary>
+
+<br/>
+
 <div align="center">
-
-<a href="https://github.com/gabrielmarkusmt?tab=repositories"><b>🔍 Ver todos os meus repositórios públicos</b></a>
-
+<img src="./assets/language-usage.svg" width="100%" alt="Gráfico de porcentagem de linguagens em repositórios públicos"/>
+<img src="./assets/repository-languages.svg" width="100%" alt="Composição das linguagens por repositório público"/>
 </div>
 
-### 📈 Atividade no GitHub
+<sub>Esses gráficos são atualizados automaticamente pelo GitHub Actions e consideram apenas repositórios **públicos** com código. Como parte significativa do trabalho profissional está em repositórios privados, **as porcentagens públicas não representam toda a minha experiência**. A medida utilizada é volume de código detectado, não nível de conhecimento.</sub>
+
+</details>
+
+## 🤝 Projetos, parcerias e oportunidades
+
+Atuo na construção de **soluções digitais para empresas**, desde novas aplicações e integrações até evolução de plataformas existentes. Tenho interesse em colaborações técnicas, contratos PJ e oportunidades de desenvolvimento Full Stack.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielmarkusmt&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true" alt="Estatísticas do GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarkusmt&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Principais linguagens públicas"/>
+**Vamos conversar sobre seu projeto ou oportunidade?**
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmarkusmt&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Histórico de contribuições"/>
+<a href="https://www.linkedin.com/in/gabriel-markus-85bb70217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:gabrielmarkusmt@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/gabrielmarkusmt"><img src="https://img.shields.io/badge/GitHub-6d40a8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-</div>
-
-<sub>Alguns painéis dependem de serviços de terceiros e podem ficar temporariamente indisponíveis.</sub>
-
-### 🤝 Vamos conversar?
-
-Gosto de trocar ideias sobre **desenvolvimento web, produtos digitais e novas oportunidades**. Ficarei feliz em conversar!
-
-<div align="center">
-
-<a href="mailto:gabrielmarkusmt@hotmail.com"><img src="https://img.shields.io/badge/Enviar%20e--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/gabriel-markus-85bb70217/"><img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/gabrielmarkus.tx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCZt1mto04W1BAC8-gLurJqw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0d1117,50:38205e,100:865dff" alt=""/>
+📍 Rio de Janeiro, Brasil &nbsp; · &nbsp; Pronomes: ele/dele
 
 </div>
