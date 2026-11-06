@@ -38,7 +38,7 @@ I focus on translating business requirements into usable, maintainable, and prac
 ### Technologies Across Real Projects
 
 <div align="center">
-<img src="./assets/project-stack.svg" width="100%" alt="Technology adoption across ten selected development projects"/>
+<img src="./assets/project-stack-en.svg" width="100%" alt="Technology adoption across ten selected development projects"/>
 </div>
 
 <sub>Each bar shows **how many of the 10 selected projects** use the corresponding technology, not skill level. Technology categories can overlap.</sub>
