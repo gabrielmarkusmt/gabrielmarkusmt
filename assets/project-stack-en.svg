@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="970" height="668" viewBox="0 0 970 668" role="img" aria-label="Tecnologias identificadas em 10 projetos selecionados">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101321"/><stop offset="1" stop-color="#201633"/></linearGradient></defs>
+<rect x="1" y="1" width="968" height="666" rx="18" fill="url(#bg)" stroke="#594574" stroke-width="2"/>
+<rect x="29" y="27" width="6" height="53" rx="3" fill="#a78bfa"/>
+<text x="51" y="51" fill="#f6f3ff" font-size="25" font-weight="bold" font-family="Arial,sans-serif">TECH STACK ACROSS PROJECTS</text>
+<text x="51" y="76" fill="#b7afcd" font-size="15" font-family="Arial,sans-serif">Verified technology usage across 10 selected projects, including private ones</text>
+<path d="M 48 101 H 924" stroke="#49405b"/>
+<text x="50" y="136" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">React / React Native</text>
+<rect x="430" y="120" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="120" width="328" height="18" rx="8" fill="#a78bfa"/>
+<text x="917" y="135" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">8/10</text>
+<text x="50" y="179" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">Node.js</text>
+<rect x="430" y="163" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="163" width="328" height="18" rx="8" fill="#38bdf8"/>
+<text x="917" y="178" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">8/10</text>
+<text x="50" y="222" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">TypeScript</text>
+<rect x="430" y="206" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="206" width="287" height="18" rx="8" fill="#60a5fa"/>
+<text x="917" y="221" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">7/10</text>
+<text x="50" y="265" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">APIs &amp; backend</text>
+<rect x="430" y="249" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="249" width="369" height="18" rx="8" fill="#2dd4bf"/>
+<text x="917" y="264" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">9/10</text>
+<text x="50" y="308" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">SQL (PostgreSQL, MySQL, SQLite)</text>
+<rect x="430" y="292" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="292" width="246" height="18" rx="8" fill="#34d399"/>
+<text x="917" y="307" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">6/10</text>
+<text x="50" y="351" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">Tailwind CSS / NativeWind</text>
+<rect x="430" y="335" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="335" width="246" height="18" rx="8" fill="#fbbf24"/>
+<text x="917" y="350" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">6/10</text>
+<text x="50" y="394" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">Three.js</text>
+<rect x="430" y="378" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="378" width="123" height="18" rx="8" fill="#fb7185"/>
+<text x="917" y="393" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">3/10</text>
+<text x="50" y="437" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">Expo / React Native</text>
+<rect x="430" y="421" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="421" width="82" height="18" rx="8" fill="#c084fc"/>
+<text x="917" y="436" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">2/10</text>
+<text x="50" y="480" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">Electron</text>
+<rect x="430" y="464" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="464" width="41" height="18" rx="8" fill="#67e8f9"/>
+<text x="917" y="479" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">1/10</text>
+<text x="50" y="523" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">Python / Flask</text>
+<rect x="430" y="507" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="507" width="41" height="18" rx="8" fill="#f59e0b"/>
+<text x="917" y="522" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">1/10</text>
+<text x="50" y="566" fill="#e8e1f9" font-family="Arial,sans-serif" font-size="16">GameMaker</text>
+<rect x="430" y="550" width="410" height="18" rx="8" fill="#302b43"/>
+<rect x="430" y="550" width="41" height="18" rx="8" fill="#9ca3af"/>
+<text x="917" y="565" text-anchor="end" fill="#f5f0ff" font-family="Arial,sans-serif" font-size="16" font-weight="bold">1/10</text>
+<text x="50" y="646" fill="#a59db8" font-family="Arial,sans-serif" font-size="13">Overlapping categories. Verified in source and dependencies; not a proficiency assessment.</text>
+</svg>
