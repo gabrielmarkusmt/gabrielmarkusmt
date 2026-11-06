@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="240" viewBox="0 0 940 240" role="img" aria-label="LINGUAGENS EM NÚMEROS">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#201633"/></linearGradient></defs>
+<rect width="938" height="238" x="1" y="1" rx="20" fill="url(#bg)" stroke="#43345f" stroke-width="2"/>
+<rect x="29" y="30" width="7" height="47" rx="3" fill="#a78bfa"/>
+<text x="51" y="51" font-family="Arial,sans-serif" font-size="25" fill="#f1edff" font-weight="bold">LINGUAGENS EM NÚMEROS</text>
+<text x="51" y="79" font-family="Arial,sans-serif" font-size="14" fill="#ada6c6">Dados reais dos repositórios públicos</text>
+<rect x="42" y="110" width="856" height="94" rx="13" fill="#28203e" stroke="#514075"/>
+<text x="470" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#e6ddff">Aguardando a primeira atualização automática</text>
+<text x="470" y="178" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#aa9ebf">GitHub Actions → Atualizar gráficos de linguagens → Run workflow</text>
+</svg>
