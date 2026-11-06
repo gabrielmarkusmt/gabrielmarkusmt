@@ -1,6 +1,10 @@
 <div align="center">
 
+<img width="100%" src="./assets/wave-top.svg" alt="Ondas decorativas em roxo e azul"/>
+
 <img width="100%" src="./assets/profile-hero.svg" alt="Gabriel Markus — Desenvolvedor Full Stack: Web, Backend, Mobile e Games"/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="94%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2600&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=1020&amp;height=66&amp;lines=Desenvolvendo+software+para+empresas;Frontend+%2B+Backend+%2B+APIs+e+automa%C3%A7%C3%B5es;Web%2C+Mobile%2C+Desktop+e+Games;Projetos+PJ+e+solu%C3%A7%C3%B5es+sob+medida" alt="Apresentação animada: Full Stack, web, mobile, desktop, games e soluções empresariais"/></a>
 
 **🇧🇷 Português** &nbsp; | &nbsp; **[🇺🇸 Read in English](./README.en.md)**
 
@@ -160,5 +164,7 @@ Atuo na construção de **soluções digitais para empresas**, desde novas aplic
 <a href="https://github.com/gabrielmarkusmt"><img src="https://img.shields.io/badge/GitHub-6d40a8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 📍 Rio de Janeiro, Brasil &nbsp; · &nbsp; Pronomes: ele/dele
+
+<img width="100%" src="./assets/wave-bottom.svg" alt="Ondas decorativas no rodapé"/>
 
 </div>
