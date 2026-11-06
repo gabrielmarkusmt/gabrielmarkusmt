@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Ondas de destaque">
+<title>Ondas em roxo e azul</title>
+<defs>
+ <linearGradient id="ice" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset=".52" stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+ <linearGradient id="plum" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+</defs>
+<g opacity=".18"><path fill="url(#ice)" d="M0 58 C200 28 400 28 600 58 S1000 88 1200 58 S1600 28 1800 58 S2200 88 2400 58 L 2400 110 L 0 110 Z"><animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-1200 0" dur="16s" repeatCount="indefinite"/></path></g>
+<g opacity=".36"><path fill="url(#violet)" d="M0 74 C220 111 380 35 600 74 S980 113 1200 74 S1580 35 1800 74 S2180 113 2400 74 L 2400 110 L 0 110 Z"><animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-1200 0" dur="11s" repeatCount="indefinite"/></path></g>
+<g opacity=".45"><path fill="url(#plum)" d="M0 86 C250 58 350 112 600 86 S950 60 1200 86 S1550 112 1800 86 S2150 60 2400 86 L 2400 110 L 0 110 Z"><animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-1200 0" dur="20s" repeatCount="indefinite"/></path></g>
+</svg>

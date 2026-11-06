@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Ondas decorativas de encerramento">
+<title>Ondas em roxo e azul no rodapé</title>
+<defs>
+ <linearGradient id="ice" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset=".52" stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+ <linearGradient id="plum" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+</defs>
+<g opacity=".16"><path fill="url(#ice)" d="M0 48 C200 16 400 16 600 48 S1000 80 1200 48 S1600 16 1800 48 S2200 80 2400 48 L 2400 0 L 0 0 Z"><animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-1200 0" dur="19s" repeatCount="indefinite"/></path></g>
+<g opacity=".36"><path fill="url(#violet)" d="M0 36 C220 73 380 -3 600 36 S980 75 1200 36 S1580 -3 1800 36 S2180 75 2400 36 L 2400 0 L 0 0 Z"><animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-1200 0" dur="13s" repeatCount="indefinite"/></path></g>
+<g opacity=".42"><path fill="url(#plum)" d="M0 27 C250 0 350 53 600 27 S950 1 1200 27 S1550 53 1800 27 S2150 1 2400 27 L 2400 0 L 0 0 Z"><animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-1200 0" dur="22s" repeatCount="indefinite"/></path></g>
+</svg>

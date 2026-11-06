@@ -1,6 +1,10 @@
 <div align="center">
 
+<img width="100%" src="./assets/wave-top.svg" alt="Ondas decorativas em roxo e azul"/>
+
 <img width="100%" src="./assets/profile-hero.svg" alt="Gabriel Markus — Full Stack Developer: Web, Backend, Mobile and Games"/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="94%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2600&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=1020&amp;height=66&amp;lines=Building+software+for+real+businesses;Frontend+%2B+Backend+%2B+APIs+%2B+Automation;Web%2C+Mobile%2C+Desktop+and+Games;B2B+Contracts+and+Custom+Software" alt="Animated introduction: Full Stack, web, mobile, desktop, games and enterprise solutions"/></a>
 
 **[🇧🇷 Ler em português](./README.md)** &nbsp; | &nbsp; **🇺🇸 English**
 
@@ -160,5 +164,7 @@ I develop **business-focused digital products**, from new applications and integ
 <a href="https://github.com/gabrielmarkusmt"><img src="https://img.shields.io/badge/GitHub-6d40a8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 📍 Rio de Janeiro, Brazil &nbsp; · &nbsp; Pronouns: he/him
+
+<img width="100%" src="./assets/wave-bottom.svg" alt="Ondas decorativas no rodapé"/>
 
 </div>
