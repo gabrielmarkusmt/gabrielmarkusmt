@@ -1,0 +1,43 @@
+name: Atualizar gráficos de linguagens
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 9 * * 1'
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/generate_language_graphs.py'
+      - '.github/workflows/update-language-stats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: language-stats-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gerar SVGs de linguagens públicas
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_language_graphs.py
+      - name: Registrar métricas atualizadas
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/language-usage.svg assets/repository-languages.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: atualiza gráficos de linguagens [skip ci]'
+            git push
+          fi
